@@ -1,5 +1,4 @@
 # Background-Removing-Tool
-This user-friendly program using Tkinter efficiently removes image backgrounds, simplifying your editing workflow.
 To run this program:
 
 Ensure you have Python 3 and Tkinter installed. These are common libraries and likely already present on most systems.
